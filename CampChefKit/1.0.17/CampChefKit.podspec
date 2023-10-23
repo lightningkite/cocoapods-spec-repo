@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.source_files = 'CampChefKit/Classes/**/*'
   
   s.dependency 'RxBluetoothKit'
-  s.dependency 'RxSwiftPlus'
+  s.dependency 'RxSwiftPlus', '1.0.5'
   s.dependency 'KhrysalisRuntime'
   s.dependency 'LightningServer', '0.9.5'
 end
