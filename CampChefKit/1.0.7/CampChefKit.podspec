@@ -43,5 +43,5 @@ TODO: Add long description of the pod here.
   s.dependency 'RxSwiftPlus/Http'
   s.dependency 'RxSwiftPlus/Bluetooth'
   s.dependency 'KhrysalisRuntime'
-  s.dependency 'LightningServer'
+  s.dependency 'LightningServer', '0.9.0'
 end
