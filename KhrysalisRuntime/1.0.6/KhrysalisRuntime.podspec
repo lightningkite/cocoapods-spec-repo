@@ -11,7 +11,7 @@ A bunch of extension functions and declarations that assist in converting Kotlin
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Joseph' => 'joseph@lightningkite.com' }
-  s.source           = { :git => 'https://github.com/lightningkite/khrysalis.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:lightningkite/khrysalis.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_version    = "5.0"
 
